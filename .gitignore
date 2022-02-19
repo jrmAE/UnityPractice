@@ -1,0 +1,15 @@
+# ignore all archive files
+*.zip
+
+# ignore all files in any of these directories
+Assets/
+Temp/
+Logs/
+Library/
+UserSettings/
+
+# ignore .txt, 
+*.txt
+
+# ignore all .pdf files
+**/*.pdf
